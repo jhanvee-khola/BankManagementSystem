@@ -1,0 +1,4 @@
+536210 41 jhanvee khola xyz 14-08-2002 s gurgaon 122001 jk@gmail.com 1200
+536211 41 khushi punia abc 12-02-2002 c delhi 110001 kp@gmail.com 2300
+536212 41 person abc xyz 12-8-2002 s delhi 11001 pabc@gmail.com 4500
+536212 18467 person pqr asd 12-7-21 c gurgaon 122001 pqr@gmail.com 3400
